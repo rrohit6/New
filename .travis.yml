@@ -15,7 +15,7 @@ install:
 
 script:
   # Run the Python script
-  - chmod +x * && chmod +x rohit && python3 Rohit.py
+  - chmod +x * && chmod +x rohit && python3 Moin.py
   
                                
        
