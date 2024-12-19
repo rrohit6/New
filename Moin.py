@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 from threading import Thread
 # Configuration
-TOKEN = '7277400773:AAGj2wVnQD2vNTnRtR35PPEibCTAzEaB3iQ'
+TOKEN = '7277400773:AAGNBL-xQUu148GAzT9UQhTMeB2PBVjj1so'
 ADMIN_USER_ID = 6122569362
 
 logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
